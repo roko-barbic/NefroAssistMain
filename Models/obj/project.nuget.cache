@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CdvfDUanMaTBC8Wn4VqgRP28mHTgmzeXkjhxo+vdN0m4WmJxNXlquun6+Pq0FsNqNoB5jRCE0N1pjw1l2PVXA==",
+  "success": true,
+  "projectFilePath": "/Users/rokobarbic/Development/NefroAssist/Models/Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/rokobarbic/.nuget/packages/microsoft.aspnetcore.authorization/8.0.2/microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.aspnetcore.components/8.0.2/microsoft.aspnetcore.components.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.2/microsoft.aspnetcore.components.analyzers.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.2/microsoft.aspnetcore.components.forms.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.aspnetcore.components.web/8.0.2/microsoft.aspnetcore.components.web.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.aspnetcore.metadata/8.0.2/microsoft.aspnetcore.metadata.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/microsoft.jsinterop/8.0.2/microsoft.jsinterop.8.0.2.nupkg.sha512",
+    "/Users/rokobarbic/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
