@@ -5,14 +5,14 @@ namespace DataAccess.Repository;
 
 public class UnitOfWork : IUnitOfWork
 {
-    private ApplicationDbContext _context;
+    private DataContext _context;
     /*public ICategoryRepository Category { get; private set; }
     public IProductRepository Product { get; set; }
     public ICompanyRepository Company { get; set; }
     public IShoppingCartRepository ShoppingCart { get; set; }
     public IApplicationUserRepository ApplicationUser { get; set; }*/
 
-    public UnitOfWork(ApplicationDbContext context)
+    public UnitOfWork(DataContext context)
     {
         _context = context;
         /*Category = new CategoryRepository(_context);
